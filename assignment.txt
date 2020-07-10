@@ -1,0 +1,19 @@
+ADDITION SUBTRACTION DIVISION AND MULTIPLICATION
+=================================================
+a=10
+b=20
+print(a+b, b-a, a*b, b/a)# your code goes here
+Success #stdin #stdout 0.02s 9244KB
+30 10 200 2.0
+=================================================
+EVEN ODD
+=================================================
+num = int(input("Enter a number: "))
+if (num % 2) == 0:
+   print("{0} is Even".format(num))
+else:
+   print("{0} is Odd".format(num))
+---------------
+Enter a number: 20
+20 is Even
+> 
